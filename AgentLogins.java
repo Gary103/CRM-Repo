@@ -58,8 +58,8 @@ public class AgentLogins extends base {
 
 		driver.close();
 		log.info("Driver is Closed");
-		driver = null;
-		log.info("Driver is null now");
+		//driver = null;
+		//log.info("Driver is null now");
 
 
 	}
